@@ -36,3 +36,5 @@ Remove Win-Service
 .\dist\main\main.exe stop
 > Removing service MyWinService_CronJob
 ```
+
+![Event_View](images/RunJob.png?raw=true "Title")
